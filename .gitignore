@@ -1,6 +1,6 @@
 # Documentation / working notes
 _mydocs/
-docs/
+docs_here/
 
 # Scripts
 scripts/
@@ -14,3 +14,7 @@ build/
 *.o
 *.pdb
 *.ilk
+
+# Temporary files
+_dummy/
+_how_to_read_the_codebase/
