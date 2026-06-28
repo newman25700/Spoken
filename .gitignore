@@ -1,0 +1,16 @@
+# Documentation / working notes
+_mydocs/
+docs/
+
+# Scripts
+scripts/
+
+# Build outputs (any "build" directory at any depth)
+build/
+**/build/
+*build/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
